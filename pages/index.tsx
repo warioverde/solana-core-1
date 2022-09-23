@@ -30,7 +30,7 @@ const Home: NextPage = () => {
           <Spacer/>
           <Center>
             <Box marginBottom={4} color='white'>
-              <a href='https://twitter.com/_buildspace' target="_blank" rel="no opener no refer">
+              <a href='https://twitter.com/_buildspace' target="noopener noreferrer" rel="no opener no refer">
                 build with @buildspace
               </a>
             </Box>
